@@ -1,0 +1,13 @@
+{
+    "name": "mousemoonwalker",
+    "version": "1.0.0",
+    "description": "Sample app using robot",
+    "main": "app.js"
+    }
+    "author": "Adalberto Santos",
+    "license": "MIT",
+    "dependencies": {
+      "robotjs": "^1.17.2"
+    }
+  }
+  
